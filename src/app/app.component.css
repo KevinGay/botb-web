@@ -130,10 +130,14 @@
  .banner ul {
      margin-bottom: 0;
  }
- 
- .banner-social-buttons {
-     float: right;
-     margin-top: 0;
+
+ .fa {
+     padding: 5px;
+     color: rgb(255,255,255);
+ }
+
+ .intro-social-buttons {
+     background: rgba(0,0,0,0.2)
  }
  
  @media(max-width:1199px) {
